@@ -15,6 +15,7 @@ void loop() {
   Serial.println(tds);
   Serial.print("pH:");
   Serial.println(ph);
+  delay(1000);
   
 
 }
